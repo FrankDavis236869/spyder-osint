@@ -1,0 +1,1 @@
+# Spyder OSINT - Detection module

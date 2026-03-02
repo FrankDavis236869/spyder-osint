@@ -1,0 +1,9 @@
+# Spyder OSINT 2_GUI - Dependencies
+# Python 3.10+
+
+# GUI (tkinter is built-in)
+# Optional for future ML features:
+# torch>=2.0.0
+# requests>=2.28.0
+
+cryptography
